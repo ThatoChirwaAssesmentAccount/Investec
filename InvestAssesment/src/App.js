@@ -15,6 +15,7 @@ import {Store} from '../src/redux/UserDetails/store';
 import welcomeScreen from './screens/welcomScreen';
 import buttonsScreen from './screens/buttonScreen';
 import nativeModuleScreen from './screens/nativeModuleScreen';
+import CustomHeader from './utilities/Customheader';
 const Stack = createStackNavigator();
 function App(){
   return(
