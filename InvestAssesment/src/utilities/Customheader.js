@@ -16,7 +16,7 @@ const CustomHeader = (props) => {
             <Text
                 style={styles.text}
             >
-                Welcome to Bank {name}
+                Welcome {name}
             </Text>
         </View>
     )
